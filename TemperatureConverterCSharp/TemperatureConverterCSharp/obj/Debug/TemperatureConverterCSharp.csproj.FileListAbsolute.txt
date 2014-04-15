@@ -1,0 +1,6 @@
+c:\users\rob\documents\visual studio 2012\Projects\TemperatureConverterCSharp\TemperatureConverterCSharp\bin\Debug\TemperatureConverterCSharp.exe.config
+c:\users\rob\documents\visual studio 2012\Projects\TemperatureConverterCSharp\TemperatureConverterCSharp\bin\Debug\TemperatureConverterCSharp.exe
+c:\users\rob\documents\visual studio 2012\Projects\TemperatureConverterCSharp\TemperatureConverterCSharp\bin\Debug\TemperatureConverterCSharp.pdb
+c:\users\rob\documents\visual studio 2012\Projects\TemperatureConverterCSharp\TemperatureConverterCSharp\obj\Debug\TemperatureConverterCSharp.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2012\Projects\TemperatureConverterCSharp\TemperatureConverterCSharp\obj\Debug\TemperatureConverterCSharp.exe
+c:\users\rob\documents\visual studio 2012\Projects\TemperatureConverterCSharp\TemperatureConverterCSharp\obj\Debug\TemperatureConverterCSharp.pdb
